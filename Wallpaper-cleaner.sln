@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallpaper-cleaner", "Wallpaper-cleaner\Wallpaper-cleaner.csproj", "{EDACF4AF-D11A-4B11-B444-A5D54C8E9639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDACF4AF-D11A-4B11-B444-A5D54C8E9639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDACF4AF-D11A-4B11-B444-A5D54C8E9639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDACF4AF-D11A-4B11-B444-A5D54C8E9639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDACF4AF-D11A-4B11-B444-A5D54C8E9639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE98DF4F-16EF-4730-8663-E14775101079}
+	EndGlobalSection
+EndGlobal
